@@ -300,14 +300,14 @@ function initCarousel () {
 
   /* ── YOUR PHOTOS — change src & caption ── */
   const PHOTOS = [
-    { src: 'images/IMG-20260628-WA0011.jpg', caption: 'The day everything changed 🌹' },
+    { src: 'IMG-20260629-WA0011.jpg', caption: 'The day everything changed 🌹' },
     { src: 'images/IMG-20260628-WA0012.jpg', caption: 'Laughing until our cheeks hurt ✨' },
     { src: 'images/IMG-20260628-WA0013.jpg', caption: 'My favourite adventure 🌙' },
     { src: 'images/IMG-20260628-WA0014.jpg', caption: 'When time stood still 💕' },
     { src: 'images/IMG-20260628-WA0015.jpg', caption: 'Every second with you is a gift 🎁' },
     { src: 'images/IMG-20260628-WA0019.jpg', caption: 'Us against the world 🌍' },
-    { src: '', caption: 'My favourite smile 😊' },
-    { src: '', caption: 'Forever isn\'t enough ❤️' },
+    { src: 'images/IMG-20260628-WA0011.jpg', caption: 'My favourite smile 😊' },
+    { src: 'IMG-20260629-WA0013.jpg', caption: 'Forever isn\'t enough ❤️' },
   ];
 
   const N         = PHOTOS.length;
